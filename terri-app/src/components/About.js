@@ -7,21 +7,17 @@ const About = () => {
         <div className='max-w-[1000px] w-full grid grid-cols-2 gap-8'>
           <div className='sm:text-right pb-8 pl-4'>
             <p className='text-4xl font-bold inline border-b-4 border-pink-600'>
-              About
+              Who Am I?
             </p>
           </div>
           <div></div>
           </div>
           <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
             <div className='sm:text-right text-4xl font-bold'>
-              <p>Hi. I'm Sai Kumar, nice to meet you. Please take a look around.</p>
+              <p>Hello! My name is Terri Mack, nice to meet you!</p>
             </div>
             <div>
-              <p>I am passionate about building excellent software that improves
-              the lives of those around me. I specialize in creating software
-              for clients ranging from individuals and small-businesses all the
-              way to large enterprise corporations. What would you do if you had
-              a software expert available at your fingertips?</p>  
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>  
             </div>
           </div>
       </div>
