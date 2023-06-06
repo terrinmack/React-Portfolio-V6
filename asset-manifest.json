@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.5f3fdefe.js",
-    "static/js/787.19c87e15.chunk.js": "/static/js/787.19c87e15.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.5f3fdefe.js.map": "/static/js/main.5f3fdefe.js.map",
-    "787.19c87e15.chunk.js.map": "/static/js/787.19c87e15.chunk.js.map"
+    "main.css": "/React-Portfolio-V6/static/css/main.833e0526.css",
+    "main.js": "/React-Portfolio-V6/static/js/main.6863fb28.js",
+    "static/media/photoself.jpeg": "/React-Portfolio-V6/static/media/photoself.ab2983d63d89c809bf44.jpeg",
+    "static/media/eventDash.png": "/React-Portfolio-V6/static/media/eventDash.4271e21a2b667f54985f.png",
+    "static/media/MusicToMyEars.png": "/React-Portfolio-V6/static/media/MusicToMyEars.c654953b43b43e74a3a0.png",
+    "static/media/weatherDashboard.jpg": "/React-Portfolio-V6/static/media/weatherDashboard.144836715a089be4d3f6.jpg",
+    "static/media/employeeTracker.jpg": "/React-Portfolio-V6/static/media/employeeTracker.03b77310aa899f1b1e3d.jpg",
+    "static/media/TNM.logo-removebg-preview.png": "/React-Portfolio-V6/static/media/TNM.logo-removebg-preview.0cea5ea32e78e6086c0a.png",
+    "index.html": "/React-Portfolio-V6/index.html",
+    "main.833e0526.css.map": "/React-Portfolio-V6/static/css/main.833e0526.css.map",
+    "main.6863fb28.js.map": "/React-Portfolio-V6/static/js/main.6863fb28.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.5f3fdefe.js"
+    "static/css/main.833e0526.css",
+    "static/js/main.6863fb28.js"
   ]
 }
