@@ -1,38 +1,36 @@
 import React from 'react';
-import { HiArrowNarrowRight } from 'react-icons/hi';
+import profileImage from '../images/photoself.jpeg';
 
 const Home = () => {
   return (
-    <div name='home' className='w-full h-screen container'>
-      <div class="animation-wrapper">
-        <div class="particle particle-1"></div>
-        <div class="particle particle-2"></div>
-        <div class="particle particle-3"></div>
-        <div class="particle particle-4"></div>
-      </div>
+    <div id="home" name="homepage" className="w-full h-screen bg-gradient-to-tl from-zinc-50 via-red-200 to-rose-900">
+      <div className="max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full">
+        <div className="flex items-center">
+          <div>
+            <h1 className="text-xl sm:text-7xl font-bold text-white">
+              Terri Mack
+            </h1>
+            <h2 className="text-3xl sm:text-7xl font-bold ">
+              Growing Full Stack Web Developer.
+            </h2>
+            <p className="py-5 max-w-[750px]">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+            </p>
+            <div>
 
-      {/* Container */}
-      <div className='max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full'>
+              <div class="button" id="project-btn">
+                <div id="dub-arrow"><img src="https://github.com/atloomer/atloomer.github.io/blob/master/img/iconmonstr-arrow-48-240.png?raw=true" alt="" /></div>
+                <a href="#">See my Work</a>
+              </div>
 
-        <h1 className='text-4xl sm:text-7xl font-bold text-[#ccd6f6]'>
-          Terri Mack
-        </h1>
-
-        <h2 className='text-4xl sm:text-7xl font-bold text-[#8892b0]'>
-          An Aspiring Full Stack Developer.
-        </h2>
-
-        <p className='text-[#8892b0] py-4 max-w-[700px]'>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-        </p>
-
-        <div>
-          <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-600 hover:border-pink-600'>
-            View Work
-            <span className='group-hover:rotate-90 duration-300'>
-              <HiArrowNarrowRight className='ml-3 ' />
-            </span>
-          </button>
+            </div>
+          </div>
+          <div className="rounded-full overflow-hidden">
+            <img
+              src={profileImage}
+              alt="Profile"
+              className="object-cover w-full h-full" />
+          </div>
         </div>
       </div>
     </div>
