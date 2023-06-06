@@ -14,11 +14,11 @@ function App() {
       <Navbar />
       {/* within Routes will render separate pages */}
       <Routes>
-        <Route path='/' element={<Home />} />
-        <Route path='/about' element={<About />} />
-        <Route path='/skills' element={<Skills />} />
-        <Route path='/projects' element={<Projects />} />
-        <Route path='/contact' element={<Contact />} />
+        <Route path='/React-Portfolio-V6/' element={<Home />} />
+        <Route path='/React-Portfolio-V6/about' element={<About />} />
+        <Route path='/React-Portfolio-V6/skills' element={<Skills />} />
+        <Route path='/React-Portfolio-V6/projects' element={<Projects />} />
+        <Route path='/React-Portfolio-V6/contact' element={<Contact />} />
       </Routes>
      
     </div>

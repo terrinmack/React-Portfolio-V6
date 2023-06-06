@@ -19,19 +19,19 @@ const Navbar = () => {
       {/* menu */}
       <ul className='hidden md:flex'>
         <li>
-          <Link to='/'>Home</Link>
+          <Link to='/React-Portfolio-V6/'>Home</Link>
         </li>
         <li>
-          <Link to='/about'>About</Link>
+          <Link to='/React-Portfolio-V6/about'>About</Link>
         </li>
         <li>
-          <Link to='/skills'>Skills</Link>
+          <Link to='/React-Portfolio-V6/skills'>Skills</Link>
         </li>
         <li>
-          <Link to='/projects'>Projects</Link>
+          <Link to='/React-Portfolio-V6/projects'>Projects</Link>
         </li>
         <li>
-          <Link to='/contact'>Contact</Link>
+          <Link to='/React-Portfolio-V6/contact'>Contact</Link>
         </li>
       </ul>
 
@@ -49,23 +49,23 @@ const Navbar = () => {
         }
       >
         <li className='py-6 text-4xl'>
-          <Link to='/'>Home</Link>
+          <Link to='/React-Portfolio-V6/'>Home</Link>
         </li>
         <li className='py-6 text-4xl'>
           {' '}
-          <Link to='/about'>About</Link>
+          <Link to='/React-Portfolio-V6/about'>About</Link>
         </li>
         <li className='py-6 text-4xl'>
           {' '}
-          <Link to='/skills'>Skills</Link>
+          <Link to='/React-Portfolio-V6/skills'>Skills</Link>
         </li>
         <li className='py-6 text-4xl'>
           {' '}
-          <Link to='/projects'>Projects</Link>
+          <Link to='/React-Portfolio-V6/projects'>Projects</Link>
         </li>
         <li className='py-6 text-4xl'>
           {' '}
-          <Link to='/contact'>Contact</Link>
+          <Link to='/React-Portfolio-V6/contact'>Contact</Link>
         </li>
       </ul>
 
