@@ -5,7 +5,7 @@ Module 20: A React Portfolio for Terri Mack using React.
 * [Description](#description)
 * [Installation](#installation)
 * [Usage](#usage)
-* [Getting Started)(#gettingStarted)
+* [Getting Started](#gettingStarted)
 * [Contact](#contact)
 
 ## Description
