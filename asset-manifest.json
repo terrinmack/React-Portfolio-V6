@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/React-Portfolio-V6/static/css/main.080f4dff.css",
-    "main.js": "/React-Portfolio-V6/static/js/main.9a3d4e8a.js",
+    "main.js": "/React-Portfolio-V6/static/js/main.c4ae7885.js",
+    "static/media/paletteTown.png": "/React-Portfolio-V6/static/media/paletteTown.e01fc552f28ca0fc6e84.png",
     "static/media/photoself.jpeg": "/React-Portfolio-V6/static/media/photoself.ab2983d63d89c809bf44.jpeg",
     "static/media/eventDash.png": "/React-Portfolio-V6/static/media/eventDash.4271e21a2b667f54985f.png",
     "static/media/MusicToMyEars.png": "/React-Portfolio-V6/static/media/MusicToMyEars.c654953b43b43e74a3a0.png",
@@ -10,10 +11,10 @@
     "static/media/TNM.logo-removebg-preview.png": "/React-Portfolio-V6/static/media/TNM.logo-removebg-preview.0cea5ea32e78e6086c0a.png",
     "index.html": "/React-Portfolio-V6/index.html",
     "main.080f4dff.css.map": "/React-Portfolio-V6/static/css/main.080f4dff.css.map",
-    "main.9a3d4e8a.js.map": "/React-Portfolio-V6/static/js/main.9a3d4e8a.js.map"
+    "main.c4ae7885.js.map": "/React-Portfolio-V6/static/js/main.c4ae7885.js.map"
   },
   "entrypoints": [
     "static/css/main.080f4dff.css",
-    "static/js/main.9a3d4e8a.js"
+    "static/js/main.c4ae7885.js"
   ]
 }
